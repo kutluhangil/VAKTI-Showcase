@@ -76,9 +76,9 @@ Everything ships inside the app. It works fully offline, on a plane, with airpla
 
 | | |
 |:---:|:---:|
-| <img src="assets/images/readme/Screenshot_1782505786.png" width="100%" /> | <img src="assets/images/readme/Screenshot_1782505798.png" width="100%" /> |
+| <img src="images/Screenshot_1782505786.png" width="100%" /> | <img src="images/Screenshot_1782505798.png" width="100%" /> |
 | **Feed** — Today's tip card, *when* & *why* | **Detail** — Origin, how-to-use & the story behind it |
-| <img src="assets/images/readme/Screenshot_1782505801.png" width="100%" /> | <img src="assets/images/readme/Screenshot_1782505806.png" width="100%" /> |
+| <img src="images/Screenshot_1782505801.png" width="100%" /> | <img src="images/Screenshot_1782505806.png" width="100%" /> |
 | **Browse** — Search & tinted category grid | **Favorites** — Keep what matters |
 
 </div>
