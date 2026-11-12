@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="docs/media/hero.svg" alt="Vakti — showcase of the offline tip-card app" width="100%">
+<img src="docs/media/hero.svg" alt="Vakti — a tip card flipping to its why and how beside the golden-hour home widget" width="100%">
 
 <p>
   <a href="https://play.google.com/store/apps/details?id=com.studiorosemary.vakti"><img alt="Google Play" src="https://img.shields.io/badge/Google%20Play-get%20Vakti-f2a93b?style=for-the-badge&labelColor=14100b"></a>
@@ -50,6 +50,19 @@ Vakti turns small, well-timed advice into a daily ritual. There is no feed, no a
 
 <img src="docs/media/divider.svg" width="100%" alt="">
 
+## The catalogue
+
+96 cards in 12 categories, eight cards each, all bundled with the app on Google Play:
+
+| Pillar | Categories |
+|---|---|
+| **Wellness** | Digestion · Immunity · Sleep · Energy · Skin · Hydration |
+| **Communication** | Boundaries · Emotions · Cooperation · Confidence · Early years · Relationships |
+
+Every card carries a title, a primary and a secondary line with their labels (the *when* and the *why*), and a longer detail with origin, how to use it and a "did you know".
+
+<img src="docs/media/divider.svg" width="100%" alt="">
+
 ## Türkçe özet
 
 **Vakti**, doğru bilgiyi doğru vakitte sunan ücretsiz, reklamsız ve tamamen çevrimdışı bir ipucu uygulaması. Her gün tek bir kart, ne yapacağını, ne zaman ve neden yapacağını anlatıyor. Sağlık ve iletişim olmak üzere iki ana başlık, ana ekran widget'ı ve günlük seri takibi var. Bu depo uygulamanın vitrinidir; uygulama Google Play'de, kaynak kod gizli.
@@ -57,5 +70,5 @@ Vakti turns small, well-timed advice into a daily ritual. There is no feed, no a
 <div align="center">
 <br>
 <a href="https://github.com/kutluhangil"><img src="docs/media/signature.svg" width="100%" alt="Built by kutluhangil"></a>
-<sub>Doğru bilgi, doğru vakitte · built with Flutter by Studio Rosemary.</sub>
+<sub>Doğru bilgi, doğru vakitte · built with Flutter by Studio Rosemary · the card in the banner is illustrative.</sub>
 </div>
